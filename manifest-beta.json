@@ -1,0 +1,11 @@
+{
+	"id": "data-persist",
+	"name": "Data Persist",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sets the data persistence flag for IndexedDB and LocalStorage.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
